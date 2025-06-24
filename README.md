@@ -24,13 +24,9 @@
 ## 🔥 My Projects  
 
 ### 🛠 Full-Stack & AI Projects  
-- **[E-Commerce Recommender](https://github.com/brainstormer788/ecommerce_recommend)** – Hybrid model using cosine similarity, clustering & collaborative filtering  
-- **[Movie Recommendation System](https://github.com/brainstormer788/movie-recommend)** – Genre-based + collaborative filtering + Streamlit frontend  
-- **[Portfolio Website](https://github.com/brainstormer788/portfolio)** – Personal portfolio built with React, animations, and GitHub integration  
-
-### 🧠 AI & Data Science  
-- **[Typing Pattern Classifier](https://github.com/brainstormer788/typing-ml-model)** – ML model for behavioral features using One-Class SVM  
-- **[Spotify Music Recommender](https://github.com/brainstormer788/spotify-recommend)** – Using Spotify API, clustering and LightFM for hybrid recs  
+- **[E-Commerce Recommender]([https://github.com/brainstormer788/ecommerce_recommend](https://github.com/brainstormer788/ecommerce_recommend))** – Hybrid model using cosine similarity, clustering & collaborative filtering  
+- **[Movie Recommendation System]([https://github.com/brainstormer788/movie-recommend](https://github.com/brainstormer788/movie_recommend))** – Genre-based + collaborative filtering + Streamlit frontend  
+- **[Portfolio Website]([https://github.com/brainstormer788/portfolio](https://github.com/brainstormer788/portfolio_))** – Personal portfolio built with React, animations, and GitHub integration  
 
 ---
 
@@ -43,7 +39,7 @@
 ---
 
 ## 💻 Tech Stack
-
+<p>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
@@ -63,7 +59,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-
+</p>
 ---
 
 ### ⚡ Fun Fact  
@@ -72,3 +68,9 @@ I love combining backend tech with machine learning to build intelligent tools �
 ---
 
 ⭐️ *If you find my work interesting, feel free to star ⭐ some of my repos or reach out for collaboration!*
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
